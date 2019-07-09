@@ -4,6 +4,8 @@ import "./App.css";
 
 import About from "./sections/About";
 
+//TODO: routing with wouter!: https://github.com/molefrog/wouter
+
 function App() {
   return (
     <div className="App">
